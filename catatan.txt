@@ -1,0 +1,11 @@
+i = integer
+b = boolean
+u = unsigned Integer
+f = float
+c = complex float
+m = timedelta
+M = datetime
+O = Object
+S = String
+U = Unicode String
+V = fixed chunk of memory for other type (void)
